@@ -1,3 +1,6 @@
 # hello-world
 react project,
-Web designer, working with WordPress cms, now trying to work with react.
+
+Hello everyone!
+
+I`m Simona, im a Web designer, working with WordPress cms, now trying to work with react.
