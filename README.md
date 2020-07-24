@@ -1,5 +1,5 @@
 # hello-world
-react project,
+react project
 
 Hello everyone!
 
